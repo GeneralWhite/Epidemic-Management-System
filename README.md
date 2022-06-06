@@ -1,2 +1,2 @@
 # Epidemic-Management-System
-# author Jerrold Xia
+Author: Jerrold Xia 💮
